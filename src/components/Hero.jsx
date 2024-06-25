@@ -17,7 +17,7 @@ const Hero = () => {
       <div className="w-full text-center">
         <div className="mt-10"> 
           <h1 className="font-lora text-5xl sm:text-3xl md:text-4xl lg:text-7xl text-tropicalindigo pb-10   " data-aos="fade-down">
-          Farmacia Central
+            FARMACIA CENTRAL
           </h1>
           <h2 className="font-lora text-2xl md:text-4xl lg:text-4xl text-center text-tiffanyblue" data-aos="fade-down">
           Belleza, Cosmética, Cuidado personal
