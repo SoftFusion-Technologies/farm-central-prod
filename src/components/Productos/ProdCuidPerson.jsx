@@ -294,9 +294,9 @@ function ProdCuidPerson() {
     {
       id: 20,
       img: Cicatricure4,
-      title: 'Cicatricure Antimancha Deserum Aclarante Vit C',
+      title: 'Cicatricure Antimancha SERUM Aclarante Vit C',
       description:
-        'Cicatricure Antimancha Deserum Aclarante con Vitamina C es un tratamiento especializado para reducir manchas y unificar el tono de la piel. Su fórmula rica en vitamina C ayuda a iluminar y aclarar la piel, proporcionando un aspecto más uniforme y radiante. Ideal para combatir manchas y signos de pigmentación.'
+        'Cicatricure Antimancha Serum Aclarante con Vitamina C es un tratamiento especializado para reducir manchas y unificar el tono de la piel. Su fórmula rica en vitamina C ayuda a iluminar y aclarar la piel, proporcionando un aspecto más uniforme y radiante. Ideal para combatir manchas y signos de pigmentación.'
     },
     {
       id: 21,
@@ -317,7 +317,7 @@ function ProdCuidPerson() {
       img: Cremas2,
       title: 'Nivea Sun Protect & Bronze',
       description:
-        'Nivea Sun Protect & Bronze ofrece una protección solar eficaz mientras ayuda a potenciar el bronceado natural de tu piel. Su fórmula innovadora proporciona una alta protección contra los rayos UVA y UVB, mientras estimula la producción de melamina para un bronceado más dorado y uniforme. Ideal para quienes buscan proteger su piel y lograr un tono bronceado radiante.'
+        'Nivea Sun Protect & Bronze ofrece una protección solar eficaz mientras ayuda a potenciar el bronceado natural de tu piel. Su fórmula innovadora proporciona una alta protección contra los rayos UVA y UVB, mientras estimula la producción de melanina para un bronceado más dorado y uniforme. Ideal para quienes buscan proteger su piel y lograr un tono bronceado radiante.'
     },
     {
       id: 24,
@@ -406,9 +406,9 @@ function ProdCuidPerson() {
     {
       id: 36,
       img: Eucerin1,
-      title: 'Loream Paris Serum Invisible',
+      title: 'L’Oréal Paris Serum Invisible',
       description:
-        'Loream Paris Serum Invisible ofrece una fórmula avanzada que se absorbe rápidamente sin dejar residuos visibles. Enriquecido con ingredientes activos que hidratan y mejoran la apariencia de la piel, este sérum proporciona un acabado suave y radiante. Ideal para preparar la piel antes del maquillaje o como parte de tu rutina diaria, ayuda a minimizar la apariencia de imperfecciones y a mantener la piel equilibrada y luminosa.'
+        'L’Oréal Paris Serum Invisible es un protector solar innovador que ofrece una protección de amplio espectro sin dejar residuos visibles en la piel. Su fórmula ligera se absorbe rápidamente, proporcionando una barrera eficaz contra los rayos UVA y UVB, mientras hidrata y mejora la textura de la piel. Ideal para todo tipo de piel, su acabado invisible lo convierte en la opción perfecta para usar debajo del maquillaje o como parte de tu rutina diaria, dejando la piel suave, protegida y radiante.'
     },
     {
       id: 37,
