@@ -37,7 +37,7 @@ function Recipes1() {
                         <div className="relative flex w-full flex-col rounded-xl bg-white text-gray-700 shadow-md">
                             <div className="relative mx-4 -mt-6 h-40 overflow-hidden rounded-xl bg-darkcyan text-white shadow-lg">
                                 <img src={limpiezamodal} alt="Limpieza skincare" className='w-full h-full object-cover rounded-2xl' />
-                                <h5 className="flex items-center justify-center h-full mb-2 block text-xl  leading-snug text-blue-gray-900 text-lora">
+                                <h5 className="items-center justify-center h-full mb-2 block text-xl  leading-snug text-blue-gray-900 text-lora">
                                     Recomendaciones
                                 </h5>
                             </div>
